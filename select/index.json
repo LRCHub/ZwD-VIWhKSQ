@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "セプテンバー - 東京 version -",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T22:27:49.365086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セプテンバー -東京 version-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_セプテンバー_-東京_version-_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セプテンバー -東京 version-",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_セプテンバー_-東京_version-_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セプテンバー -札幌 version-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_セプテンバー_-札幌_version-_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セプテンバー -札幌 version-",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_セプテンバー_-札幌_version-_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "セプテンバー",
+      "artist": "Marcela Mangabeira",
+      "has_synced": false,
+      "path": "select/05_セプテンバー_Marcela_Mangabeira.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "セプテンバー",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/06_セプテンバー_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "セプテンバー –東京 version–",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/07_セプテンバー_–東京_version–_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "セプテンバー –札幌 version–",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/08_セプテンバー_–札幌_version–_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "September -Sapporo version- [セプテンバー -札幌 version-]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/09_September_-Sapporo_version-_[セプテンバー_-札幌_version-]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "September -Tokyo version- [セプテンバー -東京 version-]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/10_September_-Tokyo_version-_[セプテンバー_-東京_version-]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "セプテンバー –東京 version–",
+      "artist": "サカペクション",
+      "has_synced": true,
+      "path": "select/11_セプテンバー_–東京_version–_サカペクション.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "セプテンバー –札幌 version–",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/12_セプテンバー_–札幌_version–_Sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セプテンバー -東京 Version-",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_セプテンバー_-東京_Version-_サカナクション.txt"
+    }
+  ]
+}
